@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-A Survey on NLP based Text Summarization for Summarizing Product Reviews
+Natural Language Processing for the Job Portal Enhancement
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/9183355
+https://ieeexplore.ieee.org/abstract/document/9202046
 
 Group Number:
 5
