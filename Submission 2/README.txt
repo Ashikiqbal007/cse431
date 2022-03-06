@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1dh293wDnpkwdswFAwjbTSzEbvsq8QhlzM8hbhcEmGWQ/edit?pli=1#slide=id.p
 
 Paper title:
 Natural Language Processing for the Job Portal Enhancement
